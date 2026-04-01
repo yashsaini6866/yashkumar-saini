@@ -1,2 +1,19 @@
-# yashkumar-saini
-I am writing to express my interest in the Data Analyst position at your organization. I have a strong foundation in data analysis, with experience in tools such as Excel, SQL, and Power BI. I am skilled in collecting, cleaning, and interpreting data to generate meaningful insights that support business decision-making. 
+
+# 👋 Hi, I'm Yashkumar
+
+🎯 Data Analyst | Power BI | SQL | Excel  
+
+## 🛠 Skills
+- SQL
+- Power BI
+- Excel
+- Python
+
+## 📊 Projects
+- Sales Dashboard (Power BI)
+- Customer Analysis (SQL)
+
+## 📫 Contact
+- LinkedIn: www.linkedin.com/in/yashkumar-saini-ys66
+- Email: yash33538@gmail.com
+- 
